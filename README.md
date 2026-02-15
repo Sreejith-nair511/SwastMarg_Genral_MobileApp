@@ -159,6 +159,14 @@ Designed for horizontal scalability.
 
 ---
 
+<img width="1919" height="1032" alt="Screenshot 2026-02-10 211103" src="https://github.com/user-attachments/assets/da9331fa-b90c-4e73-8ab0-a5e4293cfada" />
+<img width="979" height="645" alt="Screenshot 2026-02-11 001132" src="https://github.com/user-attachments/assets/f600659a-4753-4f4b-a4a2-d03fd911db6a" />
+<img width="1478" height="699" alt="Screenshot 2026-02-11 001117" src="https://github.com/user-attachments/assets/2fd8517c-5220-430b-ab5d-0c66978689d3" />
+<img width="1373" height="470" alt="Screenshot 2026-02-11 000335" src="https://github.com/user-attachments/assets/7ad74d58-37c4-479a-a911-39045b29e18d" />
+<img width="1466" height="687" alt="Screenshot 2026-02-10 212237" src="https://github.com/user-attachments/assets/3f7e3385-7cb2-4ac4-9f9a-d0ea140c80b6" />
+<img width="1604" height="593" alt="Screenshot 2026-02-10 211919" src="https://github.com/user-attachments/assets/1704cdc9-e6d2-406f-8e10-c7e67c437484" />
+
+
 ## Impact
 
 Immediate Impact:
